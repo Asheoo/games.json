@@ -1,0 +1,127 @@
+[
+    {
+        "id":1,
+        "name": "Biomutant",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Biomutant_cover_art.jpg/220px-Biomutant_cover_art.jpg",
+        "curr_price":"30",
+        "sale":"40",
+        "relase_date":2021,
+        "publisher":"THQ Nordic",
+        "pc":true,
+        "ps":true,
+        "xbox":false
+    },
+    {
+        "id":2,
+        "name": "Assassin's Creed Valhalla",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Assassin%27s_Creed_Valhalla_cover.jpg/220px-Assassin%27s_Creed_Valhalla_cover.jpg",
+        "curr_price":"59",
+        "relase_date":2020,
+        "publisher":"Ubisoft",
+        "pc":true,
+        "ps":true,
+        "xbox":false
+    },
+    {
+        "id":3,
+        "name": "Need for Speed Heat",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/7/7f/Cover_Art_of_Need_for_Speed_Heat.png",
+        "curr_price":"40",
+        "sale":"50",
+        "relase_date":2019,
+        "publisher":"Electronic Arts",
+        "pc":true,
+        "ps":true,
+        "xbox":true
+    },
+    {
+        "id":4,
+        "name": "Farming Simulator 2019",
+        "img_url": "https://www.games.rs/files/thumbs/files/images/product/thumbs_272/PCG-Farming-Simulator-19--Ambassador-Edition_272_340px.jpg",
+        "curr_price":"20",
+        "sale":"50",
+        "relase_date":2019,
+        "publisher":"Astragon",
+        "pc":true,
+        "ps":true,
+        "xbox":true
+    },
+    {
+        "id":5,
+        "name": "The Sims 4",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/7/7f/Sims4_Rebrand.png",
+        "curr_price":"30",
+        "sale":"40",
+        "relase_date":2014,
+        "publisher":"Electronic Arts",
+        "pc":true,
+        "ps":false,
+        "xbox":false
+    },
+    {
+        "id":6,
+        "name": "The Witcher 3: Wild Hunt",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Witcher_3_cover_art.jpg/220px-Witcher_3_cover_art.jpg",
+        "curr_price":"35",
+        "relase_date":2015,
+        "publisher":"CD Projekt",
+        "pc":true,
+        "ps":false,
+        "xbox":false
+    },
+    {
+        "id":7,
+        "name": "Battlefield 4",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Battlefield_4_cover_art.jpg/220px-Battlefield_4_cover_art.jpg",
+        "curr_price":"25",
+        "relase_date":2013,
+        "publisher":"Electronic Arts",
+        "pc":true,
+        "ps":false,
+        "xbox":false
+    },
+    {
+        "id":8,
+        "name": "Football Manager 2022",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Football_Manager_2022_cover_image.jpg/220px-Football_Manager_2022_cover_image.jpg",
+        "curr_price":"60",
+        "relase_date":2021,
+        "publisher":"Sega",
+        "pc":true,
+        "ps":false,
+        "xbox":true
+    },
+    {
+        "id":9,
+        "name": "Football Manager 2022",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Football_Manager_2022_cover_image.jpg/220px-Football_Manager_2022_cover_image.jpg",
+        "curr_price":"60",
+        "relase_date":2021,
+        "publisher":"Sega",
+        "pc":true,
+        "ps":false,
+        "xbox":true
+    },
+    {
+        "id":10,
+        "name": "Elden Ring",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Elden_Ring_Box_art.jpg/220px-Elden_Ring_Box_art.jpg",
+        "curr_price":"60",
+        "relase_date":2022,
+        "publisher":"Bandai Namco Entertainment",
+        "pc":true,
+        "ps":false,
+        "xbox":false
+    },
+    {
+        "id":11,
+        "name": "Dying Light 2",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Dying_Light_2_cover_art.jpg/220px-Dying_Light_2_cover_art.jpg",
+        "curr_price":"40",
+        "relase_date":2022,
+        "publisher":"Techland",
+        "pc":true,
+        "ps":false,
+        "xbox":true
+    }
+]
