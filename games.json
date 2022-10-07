@@ -376,5 +376,50 @@
         "pc":true,
         "ps":true,
         "xbox":true
+    },
+    {
+        "id":34,
+        "name": "Hogwarts Legacy",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Hogwarts-Legacy-cover.jpg/220px-Hogwarts-Legacy-cover.jpg",
+        "curr_price":"70",
+        "relase_date":2023,
+        "publisher":"Warner Bros. Interactive Entertainment",
+        "pc":true,
+        "ps":true,
+        "xbox":true,
+        "info":"Hogwarts Legacy is an upcoming action role-playing video game, developed by Avalanche Software and published by Warner Bros.The game is set in the Wizarding World universe, based on the Harry Potter novels and film series including Fantastic Beasts.",
+        "header":"Fell the Magic",
+        "wrap_img":"https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/3XopdGAJGRy3xNQKnQDvaCRs.png",
+        "logo":"https://images.gamespress.com/Content/Artwork/TeeHee/Games%20Press/artwork/2020/09/16212641-8858def6-988a-4e09-91ed-a5ce7c0d3bd1/Hogwarts_Legacy_Logo_OnBlack.png?w=434&mode=max&otf=y&quality=80&format=png&bgcolor=transparent&ex=2022-11-01+03%3A00%3A00&sky=a42b53537ce9647a58034e3a95ead5516d11862f0fc507a275d90aef7d857ccc"
+    },
+    {
+        "id":35,
+        "name": "World of Warcraft",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/World_of_Warcraft.png/220px-World_of_Warcraft.png",
+        "curr_price":"30",
+        "relase_date":2004,
+        "publisher":"Blizzard Entertainment",
+        "pc":true,
+        "ps":false,
+        "xbox":false,
+        "info":"The Wrath of the Lich King Classic pre-expansion event is underway! Get a Northrend Epic Upgrade to receive a Level 70 Character Boost, a pet, a toy, as well as two mounts—one for World of Warcraft, and one of Wrath of the Lich King Classic—along with 30 days of game time.",
+        "header":"THE LICH KING RETURNS",
+        "wrap_img":"https://images.hdqwalls.com/wallpapers/2019-world-of-warcraft--shadowlands-4k-3o.jpg",
+        "logo":"https://1000logos.net/wp-content/uploads/2021/09/World-of-Warcraft-Logo-2004.png"
+    },
+    {
+        "id":36,
+        "name": "Cyberpunk 2077",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Cyberpunk_2077_box_art.jpg/220px-Cyberpunk_2077_box_art.jpg",
+        "curr_price":"50",
+        "relase_date":2020,
+        "publisher":"CD Projekt",
+        "pc":true,
+        "ps":true,
+        "xbox":true,
+        "info":"The story takes place in Night City, an open world set in the Cyberpunk universe. Players assume the first-person perspective of a customisable mercenary known as V, who can acquire skills in hacking and machinery with options for melee and ranged combat.",
+        "header":"EXPERIENCE NIGHT CITY ON NEXT-GEN",
+        "wrap_img":"https://1.bp.blogspot.com/-li3XwZ_F7Jw/XEQG-yLjz9I/AAAAAAAAA6c/rPOwMcZoTi8MXLdh2gqs4im7SYO3cpjAACKgBGAs/w5120-h2160-c/cyberpunk-sci-fi-art-38-4k.jpg",
+        "logo":"https://mpng.subpng.com/20180715/fi/kisspng-cyberpunk-2077-logo-game-electronic-entertainment-cyberpunk-2077-logo-5b4b606deb7cb7.7750219115316665419646.jpg"
     }
 ]
