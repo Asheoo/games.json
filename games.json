@@ -269,17 +269,6 @@
     },
     {
         "id":25,
-        "name": "The Elder Scrolls V: Skyrim",
-        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/The_Elder_Scrolls_V_Skyrim_cover.png/220px-The_Elder_Scrolls_V_Skyrim_cover.png",
-        "curr_price":"30",
-        "relase_date":2011,
-        "publisher":"Bethesda Softworks",
-        "pc":true,
-        "ps":true,
-        "xbox":true
-    },
-    {
-        "id":25,
         "name": "Outlast 2",
         "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Outlast2.png/220px-Outlast2.png",
         "curr_price":"35",
@@ -299,14 +288,14 @@
         "pc":true,
         "ps":true,
         "xbox":true
-    },
+    },  
     {
         "id":27,
-        "name": "Car Mechanic Simulator 2018",
-        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Car_Mechanic_Simulator_2018_Box_Art_Logo.webp/220px-Car_Mechanic_Simulator_2018_Box_Art_Logo.webp.png",
-        "curr_price":"25",
-        "relase_date":2017,
-        "publisher":"PlayWay",
+        "name": "The Elder Scrolls V: Skyrim",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/The_Elder_Scrolls_V_Skyrim_cover.png/220px-The_Elder_Scrolls_V_Skyrim_cover.png",
+        "curr_price":"30",
+        "relase_date":2011,
+        "publisher":"Bethesda Softworks",
         "pc":true,
         "ps":true,
         "xbox":true
@@ -421,5 +410,16 @@
         "header":"EXPERIENCE NIGHT CITY ON NEXT-GEN",
         "wrap_img":"https://1.bp.blogspot.com/-li3XwZ_F7Jw/XEQG-yLjz9I/AAAAAAAAA6c/rPOwMcZoTi8MXLdh2gqs4im7SYO3cpjAACKgBGAs/w5120-h2160-c/cyberpunk-sci-fi-art-38-4k.jpg",
         "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cyberpunk_2077_logo.svg/2560px-Cyberpunk_2077_logo.svg.png"
+    },  
+    {
+        "id":27,
+        "name": "The Elder Scrolls V: Skyrim",
+        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/The_Elder_Scrolls_V_Skyrim_cover.png/220px-The_Elder_Scrolls_V_Skyrim_cover.png",
+        "curr_price":"30",
+        "relase_date":2011,
+        "publisher":"Bethesda Softworks",
+        "pc":true,
+        "ps":true,
+        "xbox":true
     }
 ]
