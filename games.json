@@ -410,16 +410,5 @@
         "header":"EXPERIENCE NIGHT CITY ON NEXT-GEN",
         "wrap_img":"https://1.bp.blogspot.com/-li3XwZ_F7Jw/XEQG-yLjz9I/AAAAAAAAA6c/rPOwMcZoTi8MXLdh2gqs4im7SYO3cpjAACKgBGAs/w5120-h2160-c/cyberpunk-sci-fi-art-38-4k.jpg",
         "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cyberpunk_2077_logo.svg/2560px-Cyberpunk_2077_logo.svg.png"
-    },  
-    {
-        "id":27,
-        "name": "The Elder Scrolls V: Skyrim",
-        "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/The_Elder_Scrolls_V_Skyrim_cover.png/220px-The_Elder_Scrolls_V_Skyrim_cover.png",
-        "curr_price":"30",
-        "relase_date":2011,
-        "publisher":"Bethesda Softworks",
-        "pc":true,
-        "ps":true,
-        "xbox":true
     }
 ]
